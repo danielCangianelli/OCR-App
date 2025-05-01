@@ -47,6 +47,8 @@ O aplicativo trata erros comuns durante o processo de OCR, garantindo uma experi
 
 Cada erro é tratado e exibido para o usuário com mensagens informativas.
 
+![Demo](video.gif)
+
 ## Autores
 
 - **DuckNCode** - *Desenvolvedor principal* - [@dCangianelli](https://github.com/danielCangianelli)
